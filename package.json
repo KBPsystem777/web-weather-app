@@ -1,0 +1,37 @@
+{
+  "name": "weather-web-app",
+  "version": "1.0.0",
+  "description": "nodejs and expressjs driven weather app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KBPsystem777/web-weather-app.git"
+  },
+  "keywords": [
+    "weather-app",
+    "KBPsystem",
+    "KBPprojects",
+    "Koleen BP",
+    "nodejs",
+    "expressjs",
+    "freecodecamp"
+  ],
+  "author": "koleen.bp@outlook.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KBPsystem777/web-weather-app/issues"
+  },
+  "homepage": "https://github.com/KBPsystem777/web-weather-app#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "request": "^2.83.0",
+    "yargs": "^10.0.3"
+  },
+  "devDependencies": {}
+}
